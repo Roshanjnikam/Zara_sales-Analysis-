@@ -17,8 +17,8 @@ Indicates Zara’s positioning in the affordable–premium segment.
 Represents overall business performance during the analyzed period.
 
 ### Customer Demographics – Men vs Women
-•	Men: 86%
-•	Women: 14%
+•	Men: 86% /
+•	Women: 14% /
 Men contribute the majority of total sales. This indicates Zara’s men's collection has higher demand or broader product variety.
 
 ### Sales by Store Position
