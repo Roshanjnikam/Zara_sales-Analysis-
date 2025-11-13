@@ -114,15 +114,21 @@ Focusing on inventory optimization, improved marketing strategies for low-perfor
 
 ### Recommendations
 #### 1. Restock High-Performing Items
-Maintain stock levels for jackets and overshirts to avoid missed revenue opportunities. <br>
+Maintain stock levels for jackets and overshirts to avoid missed revenue opportunities.
 #### 2. Improve Marketing for Low-Selling Categories
-Run targeted campaigns for sweaters, denim, and tuxedo categories. <br>
+Run targeted campaigns for sweaters, denim, and tuxedo categories.
 #### 3. Reassess High-Price Strategy
-Items above $300 show poor sales—discounts or bundling may help. <br>
+Items above $300 show poor sales—discounts or bundling may help.
 #### 4. Expand Men’s Collection
-Since men contribute 86% of sales, investing in new designs and collections can increase profit. <br>
+Since men contribute 86% of sales, investing in new designs and collections can increase profit.
 #### 5. Enhance Store Layout
-Keep best-selling items in aisle and end-cap sections for maximum visibility. <br>
+Keep best-selling items in aisle and end-cap sections for maximum visibility.
+
+
+### Dashboard overview
+<img width="1346" height="832" alt="dashboard1" src="https://github.com/user-attachments/assets/bff8bea5-4cd3-445d-81b4-217ee49845fe" />
+<img width="1336" height="834" alt="dashboard2" src="https://github.com/user-attachments/assets/0cdd4df8-b904-4f72-a4bf-f979fe8a43f5" />
+
 
 
 
