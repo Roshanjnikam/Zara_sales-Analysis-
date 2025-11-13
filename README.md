@@ -6,10 +6,10 @@ This project analyses Zara’s sales performance using interactive visual dashbo
 The analysis supports business decisions related to inventory management, marketing strategy, and revenue optimization.
 
 ### Key Performance Indicators (KPIs)
-#### 1. Total Sales Volume /
+#### 1. Total Sales Volume 
 •	4,59,573 units sold
 This reflects strong customer demand across multiple categories.
-#### 2. Average Sale Price /
+#### 2. Average Sale Price
 •	$86.25
 Indicates Zara’s positioning in the affordable–premium segment.
 #### 3. Total Revenue
@@ -17,8 +17,9 @@ Indicates Zara’s positioning in the affordable–premium segment.
 Represents overall business performance during the analyzed period.
 
 ### Customer Demographics – Men vs Women
-•	Men: 86% /
-•	Women: 14% /
+•	Men: 86% <br>
+•	Women: 14% <br>
+
 Men contribute the majority of total sales. This indicates Zara’s men's collection has higher demand or broader product variety.
 
 ### Sales by Store Position
