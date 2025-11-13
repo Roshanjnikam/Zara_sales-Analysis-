@@ -1,4 +1,4 @@
-## ZARA Sales Analysis – Project Report
+<img width="1336" height="834" alt="dashboard2" src="https://github.com/user-attachments/assets/f5adb3a3-b526-461b-b808-eb67346bf447" />## ZARA Sales Analysis – Project Report
 #### By Roshan Nikam
 
 ### Project Overview
@@ -92,16 +92,11 @@ $200–$300	Very low sales <br>
 Customer spending behavior shows Zara performs best in the budget to mid-range pricing, while luxury-tier items sell significantly less.
 
 ### Insights & Interpretation
-#### 1. Outerwear Dominates Sales
-Bomber jackets, leather jackets, and overshirts dominate the best-selling list. <br>
-#### 2. Men’s Collection Drives Revenue
-Majority of sales come from men's products (86%). <br>
-#### 3. Strategic Placement Matters
-Aisle and end-cap displays outperform front-of-store placements. <br>
-#### 4. Seasonal Products Perform Slightly Better
-Seasonal trends influence customers’ purchase decisions. <br>
-#### 5. Pricing Strategy Needs Optimization
-Products priced below $200 perform significantly better. <br>
+#### 1. Outerwear Dominates Sales <br> Bomber jackets, leather jackets, and overshirts dominate the best-selling list. <br>
+#### 2. Men’s Collection Drives Revenue <br> Majority of sales come from men's products (86%). <br>
+#### 3. Strategic Placement Matters <br> Aisle and end-cap displays outperform front-of-store placements. <br>
+#### 4. Seasonal Products Perform Slightly Better <br> Seasonal trends influence customers’ purchase decisions. <br>
+#### 5. Pricing Strategy Needs Optimization <br> Products priced below $200 perform significantly better. <br>
 
 
 ### Conclusion
@@ -113,16 +108,11 @@ The analysis reveals that Zara’s growth is driven by: <br>
 Focusing on inventory optimization, improved marketing strategies for low-performing categories, and reinforcing strong-selling collections can further boost sales performance.
 
 ### Recommendations
-#### 1. Restock High-Performing Items
-Maintain stock levels for jackets and overshirts to avoid missed revenue opportunities.
-#### 2. Improve Marketing for Low-Selling Categories
-Run targeted campaigns for sweaters, denim, and tuxedo categories.
-#### 3. Reassess High-Price Strategy
-Items above $300 show poor sales—discounts or bundling may help.
-#### 4. Expand Men’s Collection
-Since men contribute 86% of sales, investing in new designs and collections can increase profit.
-#### 5. Enhance Store Layout
-Keep best-selling items in aisle and end-cap sections for maximum visibility.
+#### 1. Restock High-Performing Items <br> Maintain stock levels for jackets and overshirts to avoid missed revenue opportunities.
+#### 2. Improve Marketing for Low-Selling Categories <br> Run targeted campaigns for sweaters, denim, and tuxedo categories.
+#### 3. Reassess High-Price Strategy <br> Items above $300 show poor sales—discounts or bundling may help.
+#### 4. Expand Men’s Collection <br> Since men contribute 86% of sales, investing in new designs and collections can increase profit.
+#### 5. Enhance Store Layout <br> Keep best-selling items in aisle and end-cap sections for maximum visibility.
 
 
 ### Dashboard overview
