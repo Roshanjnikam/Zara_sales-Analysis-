@@ -1,4 +1,4 @@
-<img width="1336" height="834" alt="dashboard2" src="https://github.com/user-attachments/assets/f5adb3a3-b526-461b-b808-eb67346bf447" />## ZARA Sales Analysis – Project Report
+## ZARA Sales Analysis – Project Report
 #### By Roshan Nikam
 
 ### Project Overview
