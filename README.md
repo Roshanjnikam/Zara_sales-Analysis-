@@ -88,7 +88,7 @@ Price Range	Sales Trend <br>
 $1–$100	Highest sales <br>
 $100–$200	Moderate sales <br>
 $200–$300	Very low sales <br>
->$300	Minimal sales <br>
+$300	Minimal sales <br>
 Customer spending behavior shows Zara performs best in the budget to mid-range pricing, while luxury-tier items sell significantly less.
 
 ### Insights & Interpretation
