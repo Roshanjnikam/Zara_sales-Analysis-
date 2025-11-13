@@ -1,148 +1,128 @@
-# Zara_sales-Analysis-
+## ZARA Sales Analysis – Project Report
+#### By Roshan Nikam
 
-ZARA Sales Analysis Report
-Prepared by: Roshan Nikam
-Dataset: Zara Product Dataset
-________________________________________
-1. Executive Summary
-This report explores product performance from Zara's dataset, focusing on sales volume, pricing, revenue, gender and seasonal segmentation, and product visibility. The goal is to generate insights to improve inventory restocking, pricing, and marketing strategies.
-________________________________________
-2. Total Sales Volume
-Description:
-Total number of units sold for all products in the dataset.
+### Project Overview
+This project analyses Zara’s sales performance using interactive visual dashboards. The aim is to identify sales trends, customer preferences, product performance, and revenue drivers. The dashboard highlights key metrics such as total sales, seasonal demand, product category performance, and pricing insights.
+The analysis supports business decisions related to inventory management, marketing strategy, and revenue optimization.
 
+### Key Performance Indicators (KPIs)
+#### 1. Total Sales Volume
+•	4,59,573 units sold
+This reflects strong customer demand across multiple categories.
+#### 2. Average Sale Price
+•	$86.25
+Indicates Zara’s positioning in the affordable–premium segment.
+#### 3. Total Revenue
+•	$3,89,88,476.48
+Represents overall business performance during the analyzed period.
 
- <img width="451" height="243" alt="image" src="https://github.com/user-attachments/assets/79808668-9121-4841-98c1-df74f9cb40b4" />
+### Customer Demographics – Men vs Women
+•	Men: 86%
+•	Women: 14%
+Men contribute the majority of total sales. This indicates Zara’s men's collection has higher demand or broader product variety.
 
- 
-Insight: 
-The chart shows number of unit sales.
-________________________________________
-3. Average Sales Price
-Description:
-Average sales price across product categories or SKU levels.
+### Sales by Store Position
+•	Aisle: 39% (Highest sales contributor)
+•	End-cap: 33%
+•	Front of Store: 28%
+Aisle products perform best, suggesting that high-traffic placement significantly boosts sales.
 
+### Seasonal Sales
+•	Seasonal Products Sales: Yes – 51%
+•	Non-seasonal: 49%
+Seasonal products have slightly stronger performance, indicating demand for trend-based clothing.
 
-<img width="328" height="208" alt="image" src="https://github.com/user-attachments/assets/5cfccab1-1c33-4599-aaa0-5f3d92d4041e" />
+### Top 10 Best-Selling Products (By Revenue)
+1.	Contrasting Patches Bomber Jacket – $8,89,308
+2.	Suit Jacket in 100% Linen – $8,16,675
+3.	Faux Leather Bomber Jacket – $7,98,852
+4.	Plaid Overshirt – $6,95,369
+5.	Rib Collar Jacket – $6,85,883
+6.	Slim Fit Suit Jacket – $6,75,719
+7.	Pocket Overshirt – $6,66,987
+8.	Vintage Effect Leather Bomber Jacket – $6,51,521
+9.	Suede Jacket – $6,49,140
+10.	Bouclé Textured Jacket – $6,09,950
+Most top-selling products are jackets or overshirts, indicating customers prefer outerwear.
 
+### Products Recommended for Restocking (High Sales Volume)
+These products show consistently high demand and must be replenished quickly:
+•	Plaid Overshirt
+•	Pocket Overshirt
+•	Faux Leather Bomber Jacket
+•	Lightweight Bomber Jacket
+•	Patch Bomber Jacket
+•	Faux Leather Puffer Jacket
+•	Suit Jacket in 100% Linen
+•	Rib Collar Jacket
+•	Contrasting Patches Bomber Jacket
+These items have strong performance and drive overall revenue growth.
 
-Insight:
-This chart shows average price of product.
-________________________________________
-4. Total Revenue
-Description:
-Calculated by multiplying sales volume by unit price per product.
+### 10 Product Categories Needing Marketing Push
+These items have lower sales and require awareness campaigns:
+•	Abstract Jacquard Sweater
+•	High Collar Knit Sweater
+•	V-Neck Knit Sweater
+•	Open Back Pearly Sweater
+•	Knit Sweater with Rips
+•	Pleated Wide Fit Jeans
+•	Mixed Collar Jacket
+•	Textured Pocket Jacket
+•	Tuxedo Jacket
+•	Oversized Bomber Jacket
+Marketing and promotional strategies can boost visibility and demand for these products.
 
+### Top 10 Most Expensive Products
+High-priced items include:
+•	Cropped Leather Jacket – $808
+•	Suit Jacket in 100% Linen – $727
+•	Plaid Overshirt – $399
+•	Leather Jacket – $389
+•	Suede Jacket – $349
+•	Faux Leather Oversized Bomber – $328
+These premium products appeal to a niche audience and offer high profit margins.
 
- <img width="638" height="184" alt="image" src="https://github.com/user-attachments/assets/96d749d4-2057-4424-ab00-4280c28295f7" />
+### Price Group vs Sales Performance
+Price Range	Sales Trend
+$1–$100	Highest sales
+$100–$200	Moderate sales
+$200–$300	Very low sales
+>$300	Minimal sales
+Customer spending behavior shows Zara performs best in the budget to mid-range pricing, while luxury-tier items sell significantly less.
 
- 
-Insight:
-This chart shoes total revenue generated.
-________________________________________
-5. Sales by Gender
-Description:
-Comparison of sales volume and revenue between men’s and women’s sections.
-
-
-<img width="429" height="345" alt="image" src="https://github.com/user-attachments/assets/5a08f528-e334-43ae-9c43-24afbc3fa979" />
-
-
-Insight:
-Men’s products account for the majority of sales and total revenue.
-________________________________________
-6. Positional Sales Impact
-Description:
-Analysis of how product position on the site affects sales.
-
-
- <img width="470" height="399" alt="image" src="https://github.com/user-attachments/assets/8bb472b1-b378-4131-b716-2d6bc7bbfec6" />
-
-
-Insight:
-Products displayed in positions, here Aisle position product sells more followed by End-cap ad front of store. Hence the front of store product sell minimum to others.
-________________________________________
-7. Seasonal Sales Analysis
-Description:
-Comparison of sales between seasonal and non-seasonal products.
-
-
- <img width="517" height="238" alt="image" src="https://github.com/user-attachments/assets/f0e4ed45-3a50-4312-b724-e0d60786a808" />
-
-
-Insight:
-Seasonal products see high compare to  Non-seasonal products there is no measure difference between seasonal and non- seasonal sells.
-________________________________________
-8. Top 10 Best-Selling Products (By Revenue)
-Description:
-List and chart of the highest-grossing products.
-
-
-<img width="1035" height="367" alt="image" src="https://github.com/user-attachments/assets/f2cc3cea-5a88-4b55-b4fa-afbbc4ef326b" />
-
-
-Insight:
-These products are the most valuable to Zara’s bottom line and should be prioritized in promotions and inventory planning.
-________________________________________
-9. Restock Recommendations
-Description:
-Products with high sales volume that are likely sold out or scraping shows recent popularity.
-
-
- <img width="752" height="462" alt="image" src="https://github.com/user-attachments/assets/6193fc57-5935-4ca7-b1da-75e3c3b77301" />
-
-
-Insight:
-These restocking based on performance trends.
-________________________________________
-10. Most Expensive Products
-Description:
-Top 10 products by unit price.
-
-
- <img width="757" height="462" alt="image" src="https://github.com/user-attachments/assets/571c9cd1-3b1f-4db8-b416-6d158ad0ecdf" />
-
-
-
-Insight:
-These premium products may require more targeted marketing as their sales volume is typically lower.
-________________________________________
-11. Price Groups vs Sales Performance
-Description:
-Sales performance segmented by price brackets (e.g., <$20, $20–$50, $50–$100, >$100).
+### Insights & Interpretation
+#### 1. Outerwear Dominates Sales
+Bomber jackets, leather jackets, and overshirts dominate the best-selling list.
+#### 2. Men’s Collection Drives Revenue
+Majority of sales come from men's products (86%).
+#### 3. Strategic Placement Matters
+Aisle and end-cap displays outperform front-of-store placements.
+#### 4. Seasonal Products Perform Slightly Better
+Seasonal trends influence customers’ purchase decisions.
+#### 5. Pricing Strategy Needs Optimization
+Products priced below $200 perform significantly better.
 
 
- <img width="756" height="437" alt="image" src="https://github.com/user-attachments/assets/f57d6147-dbd2-4e43-adcc-b5aa9171f891" />
+### Conclusion
+The analysis reveals that Zara’s growth is driven by:
+•	High-performing men’s outerwear
+•	Strong demand for mid-priced products
+•	Seasonal trends influencing buying behavior
+•	Strategic product placement within stores
+Focusing on inventory optimization, improved marketing strategies for low-performing categories, and reinforcing strong-selling collections can further boost sales performance.
+
+### Recommendations
+#### 1. Restock High-Performing Items
+Maintain stock levels for jackets and overshirts to avoid missed revenue opportunities.
+#### 2. Improve Marketing for Low-Selling Categories
+Run targeted campaigns for sweaters, denim, and tuxedo categories.
+#### 3. Reassess High-Price Strategy
+Items above $300 show poor sales—discounts or bundling may help.
+#### 4. Expand Men’s Collection
+Since men contribute 86% of sales, investing in new designs and collections can increase profit.
+#### 5. Enhance Store Layout
+Keep best-selling items in aisle and end-cap sections for maximum visibility.
 
 
-Insight:
-The $1–$100 segment is the sweet spot for volume. Higher-priced products yield more revenue per unit but need stronger marketing.
-________________________________________
-12. Categories Needing Marketing Push
-Description:
-Categories with low performance in terms of sales and revenue.
-
-
- <img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/51e3e14e-c16c-4a0e-bfbe-33d0f08c8e44" />
-
-
-Insight:
-These categories may be under-marketed or positioned poorly. Consider promotional campaigns or repositioning on the website.
-________________________________________
-13. Recommendations
-1.	Restock high-demand SKUs with strong sales and low availability.
-2.	Improve site placement for underperforming high-potential items.
-3.	Invest marketing in low-performing categories identified above.
-4.	Maintain strong pricing strategy in the $1–$100 range.
-5.	Capitalize on seasonal product spikes by aligning inventory and marketing.
-________________________________________
-14. Conclusion
-Zara’s dataset reveals actionable trends in customer behaviour and product dynamics. A refined strategy focusing on restocking, pricing, and marketing can drive measurable growth in revenue and customer satisfaction
-
-
-
-•	For more details see dashboard that provide in excel in sheet.
-•	For making a dashboard performed calculation columns and some measures.
-•	Dashboard:-
 
  
